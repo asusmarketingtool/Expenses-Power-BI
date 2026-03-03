@@ -1,35 +1,37 @@
-name: Update Expenses Data
+import pandas as pd
+import gspread
+from google.oauth2.service_account import Credentials
+import os
+import json
 
-on:
-  schedule:
-    - cron: '0 12 * * *' # Se ejecuta diario a las 12:00 UTC (7:00 AM COL/PE)
-  workflow_dispatch:      # Permite ejecutarlo manualmente con un botón
+# CONFIGURACIÓN
+creds_env = os.environ.get("GOOGLE_CREDENTIALS")
+if not creds_env:
+    raise ValueError("No se encontró el secreto GOOGLE_CREDENTIALS en GitHub")
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v3
+SERVICE_ACCOUNT_INFO = json.loads(creds_env)
+SPREADSHEET_ID = "1Q_g0OI6K4yxsdtENS75XJ_LuZgSgKmmruwF-ZcZSDzM"
+SHEETS = ["Google CO", "Google CL", "Google PE", "Facebook CO", "Facebook CL", "Facebook PE", "Tiktok CL", "Tiktok PE"]
+OUTPUT_PATH = "expenses_combined.csv"
 
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+# AUTENTICACIÓN
+scopes = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
+credentials = Credentials.from_service_account_info(SERVICE_ACCOUNT_INFO, scopes=scopes)
+client = gspread.authorize(credentials)
 
-      - name: Install dependencies
-        run: |
-          pip install pandas gspread google-auth
+# DESCARGA Y COMBINACIÓN
+spreadsheet = client.open_by_key(SPREADSHEET_ID)
+all_dataframes = []
 
-      - name: Execute script
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-        run: python main.py
+for sheet_name in SHEETS:
+    print(f"Descargando {sheet_name}...")
+    worksheet = spreadsheet.worksheet(sheet_name)
+    data = worksheet.get_all_records()
+    df = pd.DataFrame(data)
+    df["Source_Sheet"] = sheet_name
+    all_dataframes.append(df)
 
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add expenses_combined.csv
-          git commit -m "Auto-update data" || exit 0
-          git push
+combined_df = pd.concat(all_dataframes, ignore_index=True)
+combined_df.to_csv(OUTPUT_PATH, index=False, encoding="utf-8-sig")
+
+print("✅ Archivo expenses_combined.csv generado.")

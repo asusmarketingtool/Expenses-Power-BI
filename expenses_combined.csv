@@ -11423,6 +11423,13 @@
 2026-03-31,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.AdWords_CO_Notebook_Text.Ad_BRANDED.STD,1768,Notebook,JMA,ACCO,Google CO,
 2026-03-31,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.AdWords_CO_Notebook_Text.Ad_GENERIC,57,Notebook,JMA,ACCO,Google CO,
 2026-03-31,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.Shopping_CO_Notebook_Catalog_SHOPPING.2,1415,Notebook,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Gaming.eshop.CONV_Search_Google.AdWords_CO_Gaming_Text.Ad_BRANDED.GENERIC,25,Gaming,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Gaming.eshop.CONV_Search_Google.AdWords_CO_Gaming_Text.Ad_BRANDED.STD,0,Gaming,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Gaming.eshop.CONV_Search_Google.Shopping_CO_Gaming_Catalog_SHOPPING.2,119,Gaming,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.AdWords_CO_Notebook_Text.Ad_BRANDED.GENERIC,0,Notebook,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.AdWords_CO_Notebook_Text.Ad_BRANDED.STD,192,Notebook,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.AdWords_CO_Notebook_Text.Ad_GENERIC,1,Notebook,JMA,ACCO,Google CO,
+2026-04-01,JMA.ASUS.CO.Notebook.eshop.CONV_Search_Google.Shopping_CO_Notebook_Catalog_SHOPPING.2,5,Notebook,JMA,ACCO,Google CO,
 2022-01-01,,0,,,,Google CL,
 2022-01-02,,0,,,,Google CL,
 2022-01-03,,0,,,,Google CL,
@@ -23743,6 +23750,12 @@
 2026-03-31,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.AdWords_CL_Notebook_Text.Ad_BRANDED.GENERIC,364,Notebook,JMA,ACCL,Google CL,
 2026-03-31,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.AdWords_CL_Notebook_Text.Ad_BRANDED.STD,17,Notebook,JMA,ACCL,Google CL,
 2026-03-31,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.Shopping_CL_Notebook_Catalog_SHOPPING.2,278,Notebook,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Gaming.eshop.CONV_Search_Google.AdWords_CL_Gaming_Text.Ad_BRANDED.GENERIC,0,Gaming,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Gaming.eshop.CONV_Search_Google.AdWords_CL_Gaming_Text.Ad_BRANDED.STD,4,Gaming,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Gaming.eshop.CONV_Search_Google.Shopping_CL_Gaming_Catalog_SHOPPING.2,1003,Gaming,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.AdWords_CL_Notebook_Text.Ad_BRANDED.GENERIC,17,Notebook,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.AdWords_CL_Notebook_Text.Ad_BRANDED.STD,952,Notebook,JMA,ACCL,Google CL,
+2026-04-01,JMA.ASUS.CL.Notebook.eshop.CONV_Search_Google.Shopping_CL_Notebook_Catalog_SHOPPING.2,92,Notebook,JMA,ACCL,Google CL,
 2022-01-01,,0,,,,Google PE,
 2022-01-02,,0,,,,Google PE,
 2022-01-03,,0,,,,Google PE,
@@ -35764,6 +35777,12 @@
 2026-03-31,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.AdWords_PE_Notebook_Text.Ad_BRANDED.GENERIC,25,Notebook,JMA,ACPE,Google PE,
 2026-03-31,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.AdWords_PE_Notebook_Text.Ad_BRANDED.STD,2379,Notebook,JMA,ACPE,Google PE,
 2026-03-31,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.Shopping_PE_Notebook_Catalog_SHOPPING.2,1534,Notebook,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Gaming.eshop.CONV_Search_Google.AdWords_PE_Gaming_Text.Ad_BRANDED.GENERIC,1453,Gaming,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Gaming.eshop.CONV_Search_Google.AdWords_PE_Gaming_Text.Ad_BRANDED.STD,2,Gaming,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Gaming.eshop.CONV_Search_Google.Shopping_PE_Gaming_Catalog_SHOPPING.2,37,Gaming,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.AdWords_PE_Notebook_Text.Ad_BRANDED.GENERIC,1,Notebook,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.AdWords_PE_Notebook_Text.Ad_BRANDED.STD,83,Notebook,JMA,ACPE,Google PE,
+2026-04-01,JMA.ASUS.PE.Notebook.eshop.CONV_Search_Google.Shopping_PE_Notebook_Catalog_SHOPPING.2,283,Notebook,JMA,ACPE,Google PE,
 2022-01-01,,0,,,,Facebook CO,
 2022-01-02,,0,,,,Facebook CO,
 2022-01-03,Q4 - 2021 / ASUS Venta Final / Conversion,312,Notebook,Pure,ACCO,Facebook CO,ASUS AiO
@@ -43534,6 +43553,7 @@
 2026-03-31,JMA.ASUS.CO.Notebook&Gaming.eshop.CONV.V2,66,Notebook,JMA,ACCO,Facebook CO,ASUS.CO.Notebook.eshop.CONV_Social_Facebook_CO_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on
 2026-03-31,JMA.ASUS.CO.Notebook.Eshop.Advantage,272,Notebook,JMA,ACCO,Facebook CO,JMA.ASUS.CO.Notebook.Eshop.Advantage
 2026-03-31,JMA.ASUS.CO.Notebook.eshop.CONV_Social_Facebook_CO_Notebook_Carrousel_ALL.SESSIONS_remarketing.2,282,Notebook,JMA,ACCO,Facebook CO,ASUS.DIASON.Q1.W12-13.26
+2026-04-01,,0,,,,Facebook CO,
 2022-01-01,,0,,,,Facebook CL,
 2022-01-02,,0,,,,Facebook CL,
 2022-01-03,Q4 - 2021 / ASUS Venta Final / Conversion,281,Notebook,Pure,ACCL,Facebook CL,ASUS Notebook
@@ -51301,6 +51321,11 @@
 2026-03-31,JMA.ASUS.CL.Notebook&Gaming.eshop.CONV.V2,41,Notebook,JMA,ACCL,Facebook CL,ASUS.CL.Notebook.eshop.CONV_Social_Facebook_CL_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on
 2026-03-31,JMA.ASUS.CL.Notebook.Eshop.Advantage,283,Notebook,JMA,ACCL,Facebook CL,JMA.ASUS.CL.Notebook.Eshop.Advantage
 2026-03-31,JMA.ASUS.CL.Notebook.eshop.CONV_Social_Facebook_CL_Notebook_Carrousel_ALL.SESSIONS_remarketing.2,474,Notebook,JMA,ACCL,Facebook CL,ASUS.Notebook.ASUSDAYS.Q1.W12-13.26
+2026-04-01,JMA.ASUS.CL.Gaming.eshop.CONV_Social_Facebook_CL_Gaming_Carrousel_ALL.SESSIONS_remarketing.2,0,Gaming,JMA,ACCL,Facebook CL,ROG.Gaming.BLACKWEEK.Q2.W14.26
+2026-04-01,JMA.ASUS.CL.Notebook&Gaming.eshop.CONV.V2,2,Gaming,JMA,ACCL,Facebook CL,ASUS.CL.Gaming.eshop.CONV_Social_Facebook_CL_Gaming_Catalog_EMPTY.CHART_remarketing_Always.on.ROG
+2026-04-01,JMA.ASUS.CL.Notebook&Gaming.eshop.CONV.V2,21,Gaming,JMA,ACCL,Facebook CL,ASUS.CL.Gaming.eshop.CONV_Social_Facebook_CL_Gaming_Catalog_EMPTY.CHART_remarketing_Always.on.TUF
+2026-04-01,JMA.ASUS.CL.Notebook.Eshop.Advantage,22,Notebook,JMA,ACCL,Facebook CL,JMA.ASUS.CL.Notebook.Eshop.Advantage
+2026-04-01,JMA.ASUS.CL.Notebook.eshop.CONV_Social_Facebook_CL_Notebook_Carrousel_ALL.SESSIONS_remarketing.2,0,Notebook,JMA,ACCL,Facebook CL,ASUS.Notebook.BLACKWEEK.Q2.W14.26
 2022-01-01,,0,,,,Facebook PE,
 2022-01-02,,0,,,,Facebook PE,
 2022-01-03,Q4 - 2021 / ASUS Venta Final / Conversion,9,Notebook,Pure,ACPE,Facebook PE,Notebook - Look A Like
@@ -59762,6 +59787,7 @@
 2026-03-31,JMA.ASUS.PE.Notebook&Gaming.eshop.CONV.V2,35,Notebook,JMA,ACPE,Facebook PE,ASUS.PE.Notebook.eshop.CONV_Social_Facebook_PE_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on
 2026-03-31,JMA.ASUS.PE.Notebook.Eshop.Advantage,215,Notebook,JMA,ACPE,Facebook PE,JMA.ASUS.PE.Notebook.Eshop.Advantage
 2026-03-31,JMA.ASUS.PE.Notebook.eshop.CONV_Social_Facebook_PE_Notebook_Carrousel_ALL.SESSIONS_remarketing.2,333,Notebook,JMA,ACPE,Facebook PE,ASUS.DIASON.Q1.W12-13.26
+2026-04-01,,0,,,,Facebook PE,
 2025-12-14,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,239,Gaming,Pure,ACCL,Tiktok CL,
 2025-12-14,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_TUF_Catalog_EMPTY.CHART_remarketing_Always.on,127,Gaming,Pure,ACCL,Tiktok CL,
 2025-12-14,ASUS.CL.Notebook.eshop.CONV_Social_Tiktok_CL_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,339,Notebook,Pure,ACCL,Tiktok CL,
@@ -60134,6 +60160,9 @@
 2026-03-31,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,203,Gaming,Pure,ACCL,Tiktok CL,
 2026-03-31,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_TUF_Catalog_EMPTY.CHART_remarketing_Always.on,137,Gaming,Pure,ACCL,Tiktok CL,
 2026-03-31,ASUS.CL.Notebook.eshop.CONV_Social_Tiktok_CL_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,269,Notebook,Pure,ACCL,Tiktok CL,
+2026-04-01,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,4,Gaming,Pure,ACCL,Tiktok CL,
+2026-04-01,ASUS.CL.Gaming.eshop.CONV_Social_Tiktok_CL_TUF_Catalog_EMPTY.CHART_remarketing_Always.on,2,Gaming,Pure,ACCL,Tiktok CL,
+2026-04-01,ASUS.CL.Notebook.eshop.CONV_Social_Tiktok_CL_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,1,Notebook,Pure,ACCL,Tiktok CL,
 2025-12-02,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,347,Gaming,Pure,ACPE,Tiktok PE,
 2025-12-02,ASUS.PE.Notebook.eshop.CONV_Social_Tiktok_PE_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,18,Notebook,Pure,ACPE,Tiktok PE,
 2025-12-03,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,959,Gaming,Pure,ACPE,Tiktok PE,
@@ -60482,3 +60511,6 @@
 2026-03-31,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,376,Gaming,Pure,ACPE,Tiktok PE,
 2026-03-31,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_TUF_Catalog_EMPTY.CHART_remarketing_Always.on,252,Gaming,Pure,ACPE,Tiktok PE,
 2026-03-31,ASUS.PE.Notebook.eshop.CONV_Social_Tiktok_PE_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,385,Notebook,Pure,ACPE,Tiktok PE,
+2026-04-01,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_ROG_Catalog_EMPTY.CHART_remarketing_Always.on,0,Gaming,Pure,ACPE,Tiktok PE,
+2026-04-01,ASUS.PE.Gaming.eshop.CONV_Social_Tiktok_PE_TUF_Catalog_EMPTY.CHART_remarketing_Always.on,0,Gaming,Pure,ACPE,Tiktok PE,
+2026-04-01,ASUS.PE.Notebook.eshop.CONV_Social_Tiktok_PE_Notebook_Catalog_EMPTY.CHART_remarketing_Always.on,0,Notebook,Pure,ACPE,Tiktok PE,
